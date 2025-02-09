@@ -26,7 +26,7 @@ FarmData2 is both a _second_ edition of it's predecessor, FarmData, and the inte
 
 ### Acknowledgements ###
 
-FarmData2 is powered by the [farmOS](https://not.the.right.link2) open source project.
+FarmData2 is powered by the [farmOS](https://farmos.org/) open source project.
 
 Support and assistance with FarmData2 development has been received from [The Non-Profit FOSS Institute](https://npfi.org/).
 
